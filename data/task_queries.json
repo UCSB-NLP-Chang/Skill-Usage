@@ -1,0 +1,381 @@
+{
+  "3d-scan-calc": [
+    "STL mesh parsing",
+    "connected component analysis",
+    "volume calculation"
+  ],
+  "adaptive-cruise-control": [
+    "PID controller simulation",
+    "YAML config parsing",
+    "CSV time series"
+  ],
+  "azure-bgp-oscillation-route-leak": [
+    "BGP routing analysis",
+    "graph cycle detection",
+    "JSON network topology"
+  ],
+  "citation-check": [
+    "BibTeX parser",
+    "academic citation verification"
+  ],
+  "civ6-adjacency-optimizer": [
+    "Civ6Map file parsing",
+    "hex grid adjacency",
+    "combinatorial optimization"
+  ],
+  "court-form-filling": [
+    "PDF form filling",
+    "court form automation"
+  ],
+  "crystallographic-wyckoff-position-analysis": [
+    "CIF file parser",
+    "crystallography space groups",
+    "Wyckoff position analysis"
+  ],
+  "dapt-intrusion-detection": [
+    "pcap packet parsing",
+    "network traffic analysis",
+    "Shannon entropy calculation"
+  ],
+  "data-to-d3": [
+    "D3.js visualization",
+    "bubble chart force layout",
+    "CSV data processing"
+  ],
+  "dialogue-parser": [
+    "dialogue tree parsing",
+    "Graphviz DOT generation",
+    "text to JSON graph"
+  ],
+  "dynamic-object-aware-egomotion": [
+    "optical flow video",
+    "camera motion estimation",
+    "sparse mask numpy"
+  ],
+  "earthquake-phase-association": [
+    "SeisBench seismic picking",
+    "obspy mseed waveform"
+  ],
+  "earthquake-plate-calculation": [
+    "geopandas plate boundaries",
+    "geospatial distance calculation"
+  ],
+  "econ-detrending-correlation": [
+    "Hodrick-Prescott filter",
+    "pandas Excel economics"
+  ],
+  "energy-ac-optimal-power-flow": [
+    "AC optimal power flow",
+    "power systems optimization"
+  ],
+  "energy-market-pricing": [
+    "DC-OPF market clearing",
+    "MATPOWER network parsing"
+  ],
+  "enterprise-information-search": [
+    "enterprise data retrieval",
+    "JSON question answering"
+  ],
+  "exceltable-in-ppt": [
+    "python-pptx embedded Excel",
+    "pptx table editing"
+  ],
+  "exoplanet-detection-period": [
+    "TESS lightcurve analysis",
+    "transit period detection",
+    "astropy timeseries"
+  ],
+  "financial-modeling-qa": [
+    "pandas Excel analysis",
+    "PDF parsing extraction"
+  ],
+  "find-topk-similiar-chemicals": [
+    "RDKit molecular fingerprints",
+    "PubChem chemical SMILES",
+    "Tanimoto similarity search"
+  ],
+  "fix-build-agentops": [
+    "Python build debugging",
+    "git diff patch format"
+  ],
+  "fix-build-google-auto": [
+    "Java build debugging",
+    "Maven build fix"
+  ],
+  "fix-druid-loophole-cve": [
+    "Apache Druid security",
+    "CVE patch Maven build"
+  ],
+  "fix-erlang-ssh-cve": [
+    "Erlang OTP SSH",
+    "SSH protocol vulnerability fix"
+  ],
+  "fix-visual-stability": [
+    "Next.js layout shift",
+    "React CLS optimization"
+  ],
+  "flink-query": [
+    "Apache Flink job",
+    "stream processing session window"
+  ],
+  "flood-risk-analysis": [
+    "USGS streamflow data",
+    "flood threshold analysis"
+  ],
+  "gh-repo-analytics": [
+    "GitHub API analytics",
+    "gh CLI pull requests"
+  ],
+  "glm-lake-mendota": [
+    "GLM lake simulation",
+    "NetCDF hydrodynamic model"
+  ],
+  "gravitational-wave-detection": [
+    "pycbc matched filtering",
+    "gravitational wave signal processing"
+  ],
+  "grid-dispatch-operator": [
+    "optimal power flow dispatch",
+    "MATPOWER network optimization"
+  ],
+  "hvac-control": [
+    "PID controller tuning",
+    "temperature control simulation"
+  ],
+  "invoice-fraud-detection": [
+    "PDF invoice parsing",
+    "fuzzy string matching",
+    "openpyxl xlsx processing"
+  ],
+  "jax-computing-basics": [
+    "JAX numpy computation"
+  ],
+  "jpg-ocr-stat": [
+    "pytesseract OCR extraction",
+    "receipt image processing"
+  ],
+  "lab-unit-harmonization": [
+    "clinical lab unit conversion",
+    "pandas CSV data cleaning"
+  ],
+  "lake-warming-attribution": [
+    "climate trend analysis",
+    "regression feature importance"
+  ],
+  "latex-formula-extraction": [
+    "PDF LaTeX formula extraction",
+    "LaTeX syntax parsing"
+  ],
+  "lean4-proof": [
+    "Lean4 theorem proving",
+    "Lean4 tactic proofs"
+  ],
+  "manufacturing-codebook-normalization": [
+    "fuzzy text matching",
+    "CSV JSON processing",
+    "Chinese English NLP"
+  ],
+  "manufacturing-equipment-maintenance": [
+    "PDF parsing extraction",
+    "CSV sensor data analysis",
+    "thermocouple time series"
+  ],
+  "manufacturing-fjsp-optimization": [
+    "job shop scheduling",
+    "constraint optimization solver"
+  ],
+  "mario-coin-counting": [
+    "video frame extraction",
+    "template matching OpenCV"
+  ],
+  "mars-clouds-clustering": [
+    "DBSCAN clustering sklearn",
+    "Pareto frontier optimization"
+  ],
+  "mhc-layer-impl": [
+    "nanoGPT PyTorch training",
+    "Modal GPU cloud"
+  ],
+  "multilingual-video-dubbing": [
+    "text-to-speech TTS",
+    "ffmpeg audio video"
+  ],
+  "offer-letter-generator": [
+    "python-docx template",
+    "Word document placeholders"
+  ],
+  "organize-messy-files": [
+    "PDF text extraction",
+    "document classification sorting"
+  ],
+  "paper-anonymizer": [
+    "PDF redaction anonymization",
+    "PyMuPDF PDF editing"
+  ],
+  "parallel-tfidf-search": [
+    "TF-IDF inverted index",
+    "Python multiprocessing parallel"
+  ],
+  "pddl-tpp-planning": [
+    "PDDL planner solver",
+    "automated planning domain"
+  ],
+  "pdf-excel-diff": [
+    "PDF table extraction",
+    "pandas Excel comparison"
+  ],
+  "pedestrian-traffic-counting": [
+    "pedestrian detection video",
+    "OpenCV object tracking"
+  ],
+  "pg-essay-to-audiobook": [
+    "text-to-speech TTS",
+    "web scraping essays"
+  ],
+  "powerlifting-coef-calc": [
+    "openpyxl Excel formulas",
+    "Dots coefficient powerlifting"
+  ],
+  "pptx-reference-formatting": [
+    "python-pptx slide editing",
+    "PowerPoint text formatting"
+  ],
+  "protein-expression-analysis": [
+    "openpyxl Excel formulas",
+    "proteomics fold change"
+  ],
+  "python-scala-translation": [
+    "Python Scala translation",
+    "Scala 2.13 idioms"
+  ],
+  "quantum-numerical-simulation": [
+    "QuTiP quantum simulation",
+    "Wigner function cavity"
+  ],
+  "r2r-mpc-control": [
+    "model predictive control",
+    "scipy optimization",
+    "linear state-space model"
+  ],
+  "react-performance-debugging": [
+    "Next.js optimization",
+    "React performance profiling"
+  ],
+  "reserves-at-risk-calc": [
+    "openpyxl Excel automation",
+    "IMF data scraping",
+    "financial risk calculation"
+  ],
+  "sales-pivot-analysis": [
+    "pandas pivot table",
+    "PDF data extraction",
+    "openpyxl Excel writer"
+  ],
+  "scheduling-email-assistant": [
+    "Gmail API calendar",
+    "email sending automation"
+  ],
+  "sec-financial-report": [
+    "SEC EDGAR 13F data",
+    "fuzzy text search",
+    "pandas financial analysis"
+  ],
+  "seismic-phase-picking": [
+    "seismic phase picking",
+    "numpy signal processing",
+    "STA/LTA detection"
+  ],
+  "setup-fuzzing-py": [
+    "Python LibFuzzer atheris",
+    "coverage-guided fuzzing"
+  ],
+  "shock-analysis-demand": [
+    "Excel formula automation",
+    "IMF WEO data",
+    "macroeconomic modeling"
+  ],
+  "shock-analysis-supply": [
+    "Excel Solver optimization",
+    "HP filter economics",
+    "Cobb-Douglas production function"
+  ],
+  "simpo-code-reproduction": [
+    "SimPO preference optimization",
+    "PyTorch loss function",
+    "NLP paper reproduction"
+  ],
+  "software-dependency-audit": [
+    "npm vulnerability scanner",
+    "CVE security database",
+    "package-lock.json audit"
+  ],
+  "speaker-diarization-subtitles": [
+    "speaker diarization pyannote",
+    "speech-to-text transcription",
+    "ASS subtitle generation"
+  ],
+  "spring-boot-jakarta-migration": [
+    "Spring Boot migration",
+    "javax jakarta namespace migration",
+    "Maven Java upgrade"
+  ],
+  "suricata-custom-exfil": [
+    "Suricata rule writing",
+    "network intrusion detection",
+    "HTTP traffic signatures"
+  ],
+  "syzkaller-ppdev-syzlang": [
+    "syzkaller syzlang descriptions",
+    "Linux ioctl fuzzing",
+    "parallel port ppdev driver"
+  ],
+  "taxonomy-tree-merge": [
+    "hierarchical taxonomy merging",
+    "CSV category clustering",
+    "text deduplication matching"
+  ],
+  "threejs-structure-parser": [
+    "Three.js scene parsing",
+    "OBJ mesh export",
+    "3D geometry extraction"
+  ],
+  "threejs-to-obj": [
+    "Three.js to OBJ",
+    "3D format conversion",
+    "Blender coordinate space"
+  ],
+  "travel-planning": [
+    "travel itinerary planner",
+    "POI database search",
+    "budget trip optimization"
+  ],
+  "trend-anomaly-causal-inference": [
+    "pandas data cleaning",
+    "causal inference DiD",
+    "anomaly detection timeseries"
+  ],
+  "video-filler-word-remover": [
+    "speech recognition whisper",
+    "ffmpeg video editing"
+  ],
+  "video-silence-remover": [
+    "ffmpeg silence detection",
+    "audio analysis pydub"
+  ],
+  "video-tutorial-indexer": [
+    "video scene detection",
+    "speech-to-text whisper"
+  ],
+  "virtualhome-agent-planning": [
+    "PDDL planner solver",
+    "automated planning domain"
+  ],
+  "weighted-gdp-calc": [
+    "openpyxl excel formulas",
+    "xlsx spreadsheet manipulation"
+  ],
+  "xlsx-recover-data": [
+    "openpyxl excel read write",
+    "spreadsheet data recovery"
+  ]
+}
